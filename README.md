@@ -88,3 +88,11 @@ Vitório Brendo
 - **`git stash pop`**  
   Aplica as alterações salvas anteriormente.
 
+### 13. Fluxo de Trabalho para Colaboradores
+
+- Fork do repositório (opcional): Colaboradores podem criar um fork e trabalhar em suas versões.
+- Criar uma branch:
+        **` git checkout -b nome-da-branch `**
+- Criar uma nova branch para as alterações.
+- Enviar alterações para a branch:
+        **` git push origin nome-da-branch. `**
